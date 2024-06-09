@@ -2,7 +2,7 @@ package Assignments;
 
 public class BankAccountTest {
     public static void main(String [] args){
-        BankAccount SamiAcc = new BankAccount("XYTLPM", "Mudassir Sami", 50.0);
+        BankAccount SamiAcc = new BankAccount("749327489", "Mudassir Sami", 50.0);
         SamiAcc.getBalance();
         SamiAcc.getAccInfo();
         SamiAcc.deposit(40.0);
