@@ -1,4 +1,4 @@
-package Assignments;
+package Assignments.Assignment01;
 
 public class BankAccountTest {
     public static void main(String [] args){
