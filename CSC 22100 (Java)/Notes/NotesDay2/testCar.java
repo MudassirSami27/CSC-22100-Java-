@@ -1,4 +1,4 @@
-package Notes.Notes_Day2.NotesDay2;
+package Notes.NotesDay2;
 
 public class testCar{
     public static void main(String [] args) {

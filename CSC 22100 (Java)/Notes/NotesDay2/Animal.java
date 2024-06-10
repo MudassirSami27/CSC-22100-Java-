@@ -1,4 +1,4 @@
-package Notes.Notes_Day2.NotesDay2;
+package Notes.NotesDay2;
 
 abstract class Animal {
     public void animalSound(){
