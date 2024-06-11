@@ -20,7 +20,7 @@ public class BankAccount {
             getAccInfo();
         }
         else {
-            System.err.println("Error cannot input negative value");
+            System.out.println("Error cannot input negative value");
         }
     }
     public void withdraw(double amount){
