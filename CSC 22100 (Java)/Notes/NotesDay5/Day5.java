@@ -11,7 +11,7 @@ public class Day5 {
     }
     static void CheckIndex(int i, int [] Array){
         if (i > Array.length){
-            throw new ArrayIndexOutOfBoundsException("Index is beyond ");
+            throw new ArrayIndexOutOfBoundsException("Index is beyond "); //array must be initialized for this method
         }
     }
     public static void main(String[] args){
