@@ -25,6 +25,8 @@ public class Day5 {
         }
         CheckAge(15);
         CheckAge(20);
+
+        
     }
 
 }
