@@ -48,13 +48,13 @@ public class Day4 {
         System.out.println(cars);
         System.out.println(cars.size());
 
-        /*ArrayList<Integer> nums = new ArrayList<Integer>();
+        ArrayList<Integer> nums = new ArrayList<Integer>();
         nums.add(5);
         nums.add(3);
         nums.add(77);
         nums.add(10);
         Collections.sort(nums); //sorts the list, requires importing java.util.Collections
-        */
+        
         int n = 0;
 
         ArrayList<Integer> nums1 = new ArrayList<Integer>(n);

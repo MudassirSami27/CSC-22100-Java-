@@ -30,8 +30,10 @@ public class Cat extends Animal {
                 case 4:
                 case 5:
                     System.out.println(":)");
+                    break;
                 default:
                     System.out.println(":/");
+                    break;
             }
         }
     
